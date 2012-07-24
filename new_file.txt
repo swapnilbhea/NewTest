@@ -1,1 +1,2 @@
 echo "hi";
+New contents added.
